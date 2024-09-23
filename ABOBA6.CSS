@@ -1,0 +1,26 @@
+body {
+    font-family: , sans-serif;
+    margin: 100px;
+}
+h1, h2 {
+    margin: 20px;
+    text-align: center;
+}
+code {
+    color: brown;
+    background-color: #f4f4f4;
+    padding: 2px 4px;
+    font-family: Consolas, monospace;
+}
+.note {
+    color: rgb(158, 158, 158);
+    font-size: 12px;
+}
+pre {
+    background-color: rgb(196, 196, 196);
+    color: brown;
+}
+.note {
+    color: rgb(41, 187, 187);
+    font-size: 15px;
+    background-color: rgb(184, 184, 184);
